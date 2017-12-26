@@ -1,5 +1,5 @@
 " File: .vimrc
-
+" Credits to darshanthaker for vimrc file
 " Gotta be first
 set nocompatible
 
